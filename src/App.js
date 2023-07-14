@@ -9,8 +9,7 @@ function App() {
       <Note heading="Note 1" content="Hi there!" />
       <Note heading="Note 2" content="Some Content" />
       <Note heading="Note 3" content="Some more content" />
-      {/* <Note2 />
-      <Note3 /> */}
+
       <Footer />
     </div>
   );
